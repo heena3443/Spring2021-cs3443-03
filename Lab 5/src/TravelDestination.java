@@ -27,17 +27,19 @@ public class TravelDestination {
 		System.out.println("My name is Christian Salinas. I wish to travel to Spain once this pandemic is said and done.");
 		System.out.println("My name is Sang Tran. I wish to travel to Europe because it is beautiful there.");
 		System.out.println("My name is Bailey Arick. I wish to travel to Greece when this pandamic is over!");
-
-		System.out.println("My name is Ryan Harris. I wish to travel to Japan once the pandemic is over!");
-
-
-		System.out.println("My name is Hayden Hughes. I wish to travel to Iceland to see the volcanos.");
+    System.out.println("My name is Ryan Harris. I wish to travel to Japan once the pandemic is over!");
+    System.out.println("My name is Hayden Hughes. I wish to travel to Iceland to see the volcanos.");
 		System.out.println("My name is Brian van Vlymen. I wish to travel to moon with SpaceX!");
 		System.out.println("My name is Alejandro Garcia. I wish to travel to Japan to see its scenery");
 		System.out.println("My name is Victor Aguilar. I wish to travel to Norway since I've never been there!");
 		System.out.println("My name is Yaphet Samson, I wish to travel to The Netherlands to enjoy the architecture and culture");
 		System.out.println("My name is Zach Hernandez. I wish to travel to Japan to partake in the culture");
+
     System.out.println("My name is Meera Patel, I wish to travel to Norway, Sweden, or Canada to see the northern lights");
+
+
+    		System.out.println("My name is Meera Patel, I wish to travel to Norway, Sweden, or Canada to see the northern lights");
+		System.out.println("My name is Akshvir Singh Brar, I wish to travel to Punjab to eat roti and saag");
 
 	}
 	
