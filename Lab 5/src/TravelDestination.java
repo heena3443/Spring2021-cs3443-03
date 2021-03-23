@@ -33,6 +33,7 @@ public class TravelDestination {
 		System.out.println("My name is Victor Aguilar. I wish to travel to Norway since I've never been there!");
 		System.out.println("My name is Yaphet Samson, I wish to travel to The Netherlands to enjoy the architecture and culture");
     		System.out.println("My name is Meera Patel, I wish to travel to Norway, Sweden, or Canada to see the northern lights")
+		System.out.println("My name is Ryan Harris. I wish to travel to Japan to try their food!");
 
 	}
 	
