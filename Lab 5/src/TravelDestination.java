@@ -33,14 +33,16 @@ public class TravelDestination {
 		System.out.println("My name is Victor Aguilar. I wish to travel to Norway since I've never been there!");
 		System.out.println("My name is Yaphet Samson, I wish to travel to The Netherlands to enjoy the architecture and culture");
 		System.out.println("My name is Zach Hernandez. I wish to travel to Japan to partake in the culture");
-    		System.out.println("My name is Meera Patel, I wish to travel to Norway, Sweden, or Canada to see the northern lights");
+    System.out.println("My name is Meera Patel, I wish to travel to Norway, Sweden, or Canada to see the northern lights");
 		System.out.println("My name is Akshvir Singh Brar, I wish to travel to Punjab to eat roti and saag");
 		System.out.println("My name is Wesley Gene Jackson, I wish to travel to Japan to eat ramen.");
 		System.out.println("My name is Julio Valdes. I wish to travel to Cancun with my friends in the summer to relax.");
 		System.out.println("My name is Saul Carreon. I wish to travel to Japan to see the scenery and go to Akihabara.");
-    		System.out.println("My name is Victor Danish. I wish to travel to the island Kauai in Hawaii so I can hike the Kalalau Trail along the Na Pali Coast");
-    		System.out.println("My name is Ryan Harris. I wish to travel to Japan to experience the culture.");
-    		System.out.println("My name is Joshua Bingham. I wish to travel to travel to California to visit my brother.");
+    System.out.println("My name is Victor Danish. I wish to travel to the island Kauai in Hawaii so I can hike the Kalalau Trail along the Na Pali Coast");
+    System.out.println("My name is Ryan Harris. I wish to travel to Japan to experience the culture.");
+    System.out.println("My name is Joshua Bingham. I wish to travel to travel to California to visit my brother.");
+    System.out.println("My name is Joshua Bingham. I wish to travel to travel to California to visit my brother.");
+		System.out.println("My name is Amber Jones. I wish to travel to Germany to visit my sister!");
 
 	}
 	
