@@ -51,6 +51,7 @@ public class TravelDestination {
 		System.our.println("My name is Alex Rodriguez. I wish to travel to San Antonio to see my best friends!");
 		System.out.println("My name is Angelo Middleton. I wish to travel to Prague for the scenery, culture, and history");
 		System.out.println("My name is Irene Pham. I wish to travel to South Korea to view the flowers in spring.");
+		System.out.println("My name is Avery Justus. I wish to travel to Illinois to visit my family.");
 		System.out.println("My name is Augustine Oyegun. I wish to travel to Santorini for my birthday this year.");
     }
 	
