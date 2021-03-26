@@ -51,10 +51,16 @@ public class TravelDestination {
 		System.our.println("My name is Alex Rodriguez. I wish to travel to San Antonio to see my best friends!");
 		System.out.println("My name is Angelo Middleton. I wish to travel to Prague for the scenery, culture, and history");
 		System.out.println("My name is Irene Pham. I wish to travel to South Korea to view the flowers in spring.");
+		System.out.println("My name is Augustine Oyegun. I wish to travel to Santorini for my birthday this year.");
+		System.out.println("My name is Paul Perryman. I wish to travel to Hawaii because I've never there before.");
 		System.out.println("My name is Avery Justus. I wish to travel to Illinois to visit my family.");
 		System.out.println("My name is Augustine Oyegun. I wish to travel to Santorini for my birthday this year.");
 		System.out.println("My name is Augustine Oyegun. I wish to travel to Santorini, Greece for my birthday this year.");
-   		System.out.println("My name is Adittya Das, I wish to travel to Japan to see the cherry blossoms, Mount Fuji and experience their culture.");
-		System.out.println("My name is Adittya Das, I wish to travel to Japan to see the cherry blossoms, Mount Fuji and experience their culture.");
+	}
+}
+		System.out.println("My name is Alan Mendoza. I wish to travel to Las Vegas, Nevada for my birthday so that I can gamble at a major casino.");
+		System.out.println("My name is Victor Aguilar. I wish to travel to Norway, because I have never visited before.");
+	        System.out.println("My name is Loke Innocent-Utulu. I wish to travel to South korea because they have great food, architecture and nightlife.");
+    System.out.println("My name is Adittya Das, I wish to travel to Japan to see the cherry blossoms, Mount Fuji and experience their culture.");
 	}
 }
